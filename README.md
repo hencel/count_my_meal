@@ -1,8 +1,8 @@
-*Psst — looking for a more complete solution? Check out [SvelteKit](https://kit.svelte.dev), the official framework for building web applications of all sizes, with a beautiful development experience and flexible filesystem-based routing.*
+# Count My Meal
 
-*Looking for a shareable component template instead? You can [use SvelteKit for that as well](https://kit.svelte.dev/docs#packaging) or the older [sveltejs/component-template](https://github.com/sveltejs/component-template)*
-
----
+This app will be used to calculate the amount of calories in your meal.
+All you have to do to make calculations is select an ingidients from your recipe and type the correct weight.
+App's using Edamam Api: https://www.edamam.com/ 
 
 # svelte app
 
